@@ -14,7 +14,7 @@
     "scriptResources": {
       "microsoft-clarity-application-customizer": {
         "type": "path",
-        "path": "microsoft-clarity-application-customizer.js"
+        "path": "microsoft-clarity-application-customizer_7b59f6641d9dac29d8a5.js"
       },
       "@microsoft/sp-application-base": {
         "type": "component",

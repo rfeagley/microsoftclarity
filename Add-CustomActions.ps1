@@ -3,7 +3,7 @@ $AppTitle = "Application Extension - Deployment of custom action."
 $AppName = "clarity-client-side-solution"
 $location = "ClientSideExtension.ApplicationCustomizer"
 $componentId = "7f8fd1f2-9d26-4a4a-a607-bf4622d7ec11"
-$componentProps = "{`"clarityID`":`"bdvw68wn0o`"}"
+$componentProps = "{`"clarityID`":`"ValidClarityID`"}"
 
 
 Connect-PnPOnline -Url $SiteCollection -Interactive
